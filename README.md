@@ -1,3 +1,3 @@
 In python, with SQLAlchemy  
-Create a database of posgreSQL free hosted in Neon.tech  
+Create a database of postgreSQL free hosted in Neon.tech  
 Write and read data from it
